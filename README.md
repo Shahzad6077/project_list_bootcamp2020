@@ -1,11 +1,11 @@
 ## Bootcamp 2020 Project 1: Build an Expense Tracker App using React Hooks and Context API
 
-[Go to Site](http://expensetracker-shahzad.surge.sh/)<br/>
+[Go to Site](https://expensetracker-shahzad.surge.sh/)<br/>
 [Github Repository](https://github.com/Shahzad6077/1-Expense-Tracker-app)<br/>
 
 ## Bootcamp 2020 Project 2: COVID-19 Tracker App
 
-[Go to Site](http://covidtracker-shahzad.surge.sh/)<br/>
+[Go to Site](https://covidtracker-shahzad.surge.sh/)<br/>
 [Github Repository](https://github.com/Shahzad6077/2_Covid-Traker)<br/>
 
 ## Bootcamp 2020 Project 3: Shoe Store
@@ -15,17 +15,17 @@
 
 ## Bootcamp 2020 Project 4A: Red Queen's Race with Web Animation API and React Hooks
 
-[Go to Site](http://alice-queenrace-shahzad.surge.sh/)<br/>
+[Go to Site](https://alice-queenrace-shahzad.surge.sh/)<br/>
 [Github Repository](https://github.com/Shahzad6077/queen-race-webAnimation)<br/>
 
 ## Bootcamp 2020 Project 4B And 5:Clone Website
 
-[Go to Site](http://zaparetechclone-shahzad.surge.sh/)<br/>
+[Go to Site](https://zaparetechclone-shahzad.surge.sh/)<br/>
 [Github Repository](https://github.com/Shahzad6077/zaparetech-clone-react)<br/>
 
 ## Bootcamp 2020 Project 6: Quiz App with React and TypeScript
 
-[Go to Site](http://quizts-shahzad.surge.sh/)<br/>
+[Go to Site](https://quizts-shahzad.surge.sh/)<br/>
 [Github Repository](https://github.com/Shahzad6077/quiz-app-typescript)<br/>
 
 ## Bootcamp 2020 Project 7A: Rebuild the Expense Tracker App and Quiz App with React/TypeScript it should be a Progressive Web App (PWA)<br/> with Offline Capability and Push Notifications
